@@ -1,0 +1,6 @@
+framework module Pods_HairyLemon {
+  umbrella header "Pods-HairyLemon-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>185869862701-5iqr0sqrtmmpp6l443vtcugd4eoqpdrg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.185869862701-5iqr0sqrtmmpp6l443vtcugd4eoqpdrg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDMkJQWuKoG19Y3nDHG-InkyD0qf9VSYMk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>185869862701</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>-23.HairyLemon</string>
+	<key>PROJECT_ID</key>
+	<string>hairylemonfirebaseswiftapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hairylemonfirebaseswiftapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:185869862701:ios:1816de352c3ab22a1575a4</string>
+	<key>DATABASE_URL</key>
+	<string>https://hairylemonfirebaseswiftapp.firebaseio.com</string>
+</dict>
+</plist>
